@@ -9,6 +9,7 @@
 </p>   
 <div style="margin-right: 300px"  align="right" >
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70px">
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FGOECHA"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FGOECHA&labelColor=%232ccce4&countColor=%23000000" /></a>
 </div>
 
 <br/>
