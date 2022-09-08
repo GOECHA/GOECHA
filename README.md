@@ -40,11 +40,10 @@
 ## Social
 
 <a href="https://www.linkedin.com/in/chantalgoethalsgoecha/" rel=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="linkedin" /></a>
-<a href="chantalgoethals@gmail.com" rel=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+<a href="www.chantalgoethals@gmail.com" rel=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+<a href="https://www.instagram.com/_goecha/" rel=""><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram" /></a>
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-<a href="https://www.instagram.com/_goecha/" rel=""><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram" /></a>
-
 
 
 
