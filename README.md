@@ -1,14 +1,15 @@
 # <p align="center">Chantal Goethals</p>
 ### <p align="center">Frontend Developer</p>
+</br>
 
-<p align="right" margin="300px">
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70px">
-</p>
-<p>
+<p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goecha&theme=blue-green" alt="" width="500px"align="center"/>
-
- <img  src="https://github-readme-stats.vercel.app/api?username=goecha&theme=dark&show_icons=true" alt="" width="500px" align="center"/>
+<br/>
+ <img  src="https://github-readme-stats.vercel.app/api?username=goecha&show_icons=true&theme=highcontrast" alt="" width="500px" align="center"/>
 </p>   
+<div style="margin-right: 300px"  align="right" >
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70px">
+</div>
 
 <br/>
 
