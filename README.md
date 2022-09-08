@@ -1,13 +1,17 @@
 # <p align="center">Chantal Goethals</p>
 ### <p align="center">Frontend Developer</p>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goecha&theme=blue-green" width="400px">
-</p>
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70px">
+</p>
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goecha&theme=blue-green" width="400px"/><img  src="https://github-readme-stats.vercel.app/api?username=goecha&theme=dark&show_icons=true" alt="" align="center"/>
+</p>
+
+
+<p align="center">
+
 </p>
 
 
