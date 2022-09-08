@@ -1,25 +1,23 @@
 # <p align="center">Chantal Goethals</p>
 ### <p align="center">Frontend Developer</p>
 
-<p align="center">
+<p align="right" margin="300px">
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70px">
 </p>
-<p align="center">
+<p>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goecha&theme=blue-green" alt="" width="500px"align="center"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goecha&theme=blue-green" width="400px"/><img  src="https://github-readme-stats.vercel.app/api?username=goecha&theme=dark&show_icons=true" alt="" align="center"/>
-</p>
+ <img  src="https://github-readme-stats.vercel.app/api?username=goecha&theme=dark&show_icons=true" alt="" width="500px" align="center"/>
+</p>   
 
-
-<p align="center">
-
-</p>
-
+<br/>
 
 ## Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 
 
 ## Framework/Libraries
