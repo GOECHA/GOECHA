@@ -1,14 +1,56 @@
 # <p align="center">Chantal Goethals</p>
-### <p align="center">Frontend Developer</p>
+### <p align="center">Frontend Developer</p> 
+
+<div align="right" width="300px">
+<img src="https://img.shields.io/badge/GOECHA-brightgreen" width="200px" align="left" ></br>
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70px">
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FGOECHA"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FGOECHA&labelColor=%232ccce4&countColor=%23000000" /></a>
+</div>
+
 </br>
 
   
- <div  align="center" >
-I wear many hats, and always have a thirst for knowledge. Prior to software development I have experience as a fashion designer, in large scale manufacturing, and technical design. I have also, learned how to consult in mortgage finance with close communication to all moving parts.  My roots in hospitality have taught me about thriving in a fast-paced high volume environment that requires detail-oriented professionalism.
+ <div  align="left" >
+ </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goecha&theme=blue-green" alt="" width="500px"align="left"/><img  src="https://github-readme-stats.vercel.app/api?username=goecha&show_icons=true&theme=highcontrast" alt="" width="500px" align="left"/> I wear many hats, and always have a thirst for knowledge. 
+     </br>
+     Prior to software development I have experience as a fashion designer, 
+    </br>
+     in large scale manufacturing, and technical design. 
+    </br>
+     I have also, learned how to consult in mortgage finance with close 
+    </br>
+     communication to all moving parts.
+    </br>
+     My roots in hospitality have taught me about thriving in a fast-paced,
+    </br>
+     high volume environment that requires detail-oriented professionalism.
+    </br>
+     I am a self-starter that thrives on setting goals 
+    </br>
+     and achieving them with the highest of standards.
+     </br>
+      Not every task can be achieved in one way, 
+     </br>
+      which is why I love to work on a team where multiple 
+     </br>
+      great minds can come together and create something
+     </br>
+      that was never thought possible. 
+     </br>
+      Problem solving invokes a fire 
+     </br>
+      that always has me asking "how" and "why" do these things work? 
+     </br>
+      My thought when working on a project no matter what subject, 
+     </br>
+      is always "who" am I going to make a better experience for?
+     </br>
+       My team, my company, the client, or the world?
+     </br>
 
-I am a self-starter that thrives on setting goals and achieving them with the highest of standards. Not every task can be achieved in one way, which is why </br>I love to work on a team where multiple great minds can come together and create something that was never thought possible. 
-
-Problem solving invokes a fire that always has me asking "how" and "why" do these things work? My thought when working on a project no matter what subject, is always "who" am I going to make a better experience for? My team, my company, the client, or the world?
+</br>
+ Let's Connect: chantalgoethals@gmail.com
    </div>  
 
 
@@ -60,58 +102,19 @@ Problem solving invokes a fire that always has me asking "how" and "why" do thes
 
 
 
-Contact Me: chantalgoethals@gmail.com
 
 
-<div align="right">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goecha&theme=blue-green" alt="" width="400px"align="center"/>
-   <br/>
-    <img  src="https://github-readme-stats.vercel.app/api?username=goecha&show_icons=true&theme=highcontrast" alt="" width="400px" align="center"/>
- </div>
-</br>
-<div style="margin-right: 300px"  align="right" >
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70px">
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FGOECHA"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FGOECHA&labelColor=%232ccce4&countColor=%23000000" /></a>
-</div>
+
 
 <!--
 
-    I wear many hats, and always have a thirst for knowledge. 
-     </br>
-     Prior to software development I have experience as a fashion designer, 
-    </br>
-     in large scale manufacturing, and technical design. 
-    </br>
-     I have also, learned how to consult in mortgage finance with close 
-    </br>
-     communication to all moving parts.
-    </br>
-     My roots in hospitality have taught me about thriving in a fast-paced,
-    </br>
-     high volume environment that requires detail-oriented professionalism.
-    </br>
-     I am a self-starter that thrives on setting goals 
-    </br>
-     and achieving them with the highest of standards.
-     </br>
-      Not every task can be achieved in one way, 
-     </br>
-      which is why I love to work on a team where multiple 
-     </br>
-      great minds can come together and create something
-     </br>
-      that was never thought possible. 
-     </br>
-      Problem solving invokes a fire 
-     </br>
-      that always has me asking "how" and "why" do these things work? 
-     </br>
-      My thought when working on a project no matter what subject, 
-     </br>
-      is always "who" am I going to make a better experience for?
-     </br>
-       My team, my company, the client, or the world?
-     </br>
+I wear many hats, and always have a thirst for knowledge. Prior to software development I have experience as a fashion designer, in large scale manufacturing, and technical design. I have also, learned how to consult in mortgage finance with close communication to all moving parts.  My roots in hospitality have taught me about thriving in a fast-paced high volume environment that requires detail-oriented professionalism.
+
+I am a self-starter that thrives on setting goals and achieving them with the highest of standards. Not every task can be achieved in one way, which is why </br>I love to work on a team where multiple great minds can come together and create something that was never thought possible. 
+
+Problem solving invokes a fire that always has me asking "how" and "why" do these things work? My thought when working on a project no matter what subject, is always "who" am I going to make a better experience for? My team, my company, the client, or the world?
+
+   
      
 
 
