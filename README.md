@@ -13,6 +13,7 @@
  <div  align="left" >
  </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goecha&theme=blue-green" alt="" width="500px"align="left"/><img  src="https://github-readme-stats.vercel.app/api?username=goecha&show_icons=true&theme=highcontrast" alt="" width="500px" align="left"/> I wear many hats, and always have a thirst for knowledge. 
+  <div align="right">
      </br>
      Prior to software development I have experience as a fashion designer, 
     </br>
@@ -51,6 +52,7 @@
 
 </br>
  Let's Connect: chantalgoethals@gmail.com
+ </div>
    </div>  
 
 
