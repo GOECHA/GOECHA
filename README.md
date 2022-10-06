@@ -75,20 +75,18 @@ ___
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
+___
 
 
-
-<div>
-   </br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goecha&theme=blue-green" alt="" width="500px"align="left"/><img  src="https://github-readme-stats.vercel.app/api?username=goecha&show_icons=true&theme=highcontrast" alt="" width="500px" align="left"/> 
-   </br>
+<div align ="center"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goecha&theme=blue-green" alt="" width="500px"align="center"/><img  src="https://github-readme-stats.vercel.app/api?username=goecha&show_icons=true&theme=highcontrast" alt="" width="500px" align="center"/> 
   </div>
 
 
 
 <!--
 
- I wear many hats, and always have a thirst for knowledge. 
+<span fontSize="16pt"> I </span> wear many hats, and always have a thirst for knowledge. 
   <div align="right">
      </br>
      Prior to software development I have experience as a fashion designer, 
