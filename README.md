@@ -1,6 +1,6 @@
 # <p align="center">Chantal Goethals</p>
 ### <p align="center">Frontend Developer</p> 
-<div align="right" width="300px">
+<div align="center" width="300px">
 <img src="https://img.shields.io/badge/GOECHA-brightgreen" width="200px" align="left" >
 <img src="https://user-images.githubusercontent.com/102189342/194358785-382605b1-fa8c-417a-9558-733b241cb325.png" width="400px" align="center" >
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70px">
