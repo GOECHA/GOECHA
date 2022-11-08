@@ -1,8 +1,9 @@
 # <p align="center">Chantal Goethals</p>
 ### <p align="center">Frontend Developer</p> 
 <div align="center" width="300px">
-<img src="https://img.shields.io/badge/GOECHA-brightgreen" width="200px" align="left" >
+<!-- <img src="https://img.shields.io/badge/GOECHA-brightgreen" width="200px" align="left" > -->
 <img src="https://user-images.githubusercontent.com/102189342/194358785-382605b1-fa8c-417a-9558-733b241cb325.png" width="400px" align="center" >
+  </br>
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70px">
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FGOECHA"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FGOECHA&labelColor=%232ccce4&countColor=%23000000" /></a>
 </div>
